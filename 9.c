@@ -1,3 +1,34 @@
+<<<<<<< HEAD
+//#include <stdio.h>
+//#define SIZE 10
+//#define PRINT_ARR puts("Enter 10 numbers in arr:"); for (i = 0; i < SIZE; i++) {scanf("%lf", &arr1[i]);}
+//
+//int main() {
+//    double arr1[SIZE], arr2[SIZE];
+//    int i, j = 0;
+//
+//    PRINT_ARR;
+//
+//    for (i = 0; i < SIZE; i++) {
+//        int dublicate = 0;
+//        for (int k = 0; k < i; k++) {
+//            if (arr1[i] == arr1[k]) {
+//                dublicate = 1;
+//                break;
+//            }
+//        }
+//        if (!dublicate) {
+//            arr2[j] = arr1[i];
+//            j++;
+//        }
+//    }
+//    puts("new arr =");
+//    for (i = 0; i < j; i++) {
+//        printf("%lf ", arr2[i]);
+//    }
+//    printf("\n");
+//    return 0;
+=======
 //#include <stdio.h>
 //#define SIZE 10
 //#define PRINT_ARR puts("Enter 10 numbers in arr:"); for (i = 0; i < SIZE; i++) {scanf("%lf", &arr1[i]);}
@@ -87,4 +118,5 @@
 //        printf("ne naidena!\n");
 //    }
 //    return 0;
+>>>>>>> f83ef99a0443b286f17e9a87d48c889bb2a8974a
 //}
