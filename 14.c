@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+//<<<<<<< HEAD
 //#include <stdio.h>
 //#include <stdlib.h>
 //
@@ -44,7 +44,7 @@
 //
 //    return 0;
 //}
-=======
+//=======
 //#include <stdio.h>
 //#include <stdlib.h>
 //
@@ -90,4 +90,4 @@
 //
 //    return 0;
 //}
->>>>>>> f83ef99a0443b286f17e9a87d48c889bb2a8974a
+//>>>>>>> f83ef99a0443b286f17e9a87d48c889bb2a8974a
